@@ -15,7 +15,7 @@ const devServer = (isProd) =>
         devServer: {
           open: true,
           hot: true,
-          port: 8080,
+          port: 8088,
           // static: './dist',
           // contentBase: path.join(__dirname, 'public'),
         },
